@@ -10,7 +10,6 @@ import react from '../assets/svg/skills/react.svg'
 import tailwind from '../assets/svg/skills/tailwind.svg'
 import typescript from '../assets/svg/skills/typescript.svg'
 import figma from '../assets/svg/skills/figma.svg'
-import canva from '../assets/svg/skills/canva.svg'
 import nestjs from '../assets/svg/skills/nestjs-svgrepo-com.svg'
 import nodejs from '../assets/svg/skills/node-js-svgrepo-com.svg'
 
