@@ -6,5 +6,5 @@ export const headerData = {
     // image: 'https://media.licdn.com/dms/image/D5603AQHwsFXF9zn0CQ/profile-displayphoto-shrink_800_800/0/1676822380986?e=1686787200&v=beta&t=5ov_6s3DSnv30JuAyJz7NAsTuVtEo9OmL1lQocgKQhE',
     image: 'profile-pic.png',
     imagebw: 'profile-pic.png',
-    resumePdf: 'https://drive.google.com/file/d/1Mx-GetFezfixJcLvChwUfXg7eqR2UO1d/view?usp=share_link'
+    resumePdf: 'https://drive.google.com/file/d/1xXAkfilSuZrce2kLpIGV0p_cCIxtoznh/view?usp=drive_link'
 }
