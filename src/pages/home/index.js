@@ -1,6 +1,5 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-// import Blog from '../../components/container/blog'
 import Contacts from '../../components/container/contacts'
 import Landing from '../../components/container/landing'
 import Navbar from '../../components/container/navbar'
@@ -22,10 +21,8 @@ function HomePage() {
             <About />
             <Experience />
             <Skills />
-            {/* <Certificate /> */}
             <Projects />
             <Education />
-            {/* <Blog /> */}
             <Contacts />
         </div>
     )
