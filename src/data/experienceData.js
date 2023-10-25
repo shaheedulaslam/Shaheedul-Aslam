@@ -8,7 +8,7 @@ export const experienceData = [
     },
     {
         id: 2,
-        company: 'itmarkerz technology',
+        company: 'ITMARKERZ TECHNOLOGY',
         jobtitle: 'Junior Nextjs Developer',
         startYear: 'AUG 2023',
         endYear: 'Present'
