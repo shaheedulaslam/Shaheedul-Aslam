@@ -4,7 +4,7 @@ export const experienceData = [
         company: 'BRIDGEON SOLUTION',
         jobtitle: 'MERN STACK DEVELOPER',
         startYear: 'DEC 2022',
-        endYear: 'JULY 2022'
+        endYear: 'JULY 2023'
     },
     {
         id: 2,
